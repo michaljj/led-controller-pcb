@@ -35,7 +35,7 @@ not build this without reviewing them.
 
 This is the hardware half of the LED controller. The ESP32 firmware — ESP-IDF,
 MQTT, Home Assistant discovery — lives in
-[LedController](https://github.com/michaljj/LedController). Revision 1 was a
+[led-controller](https://github.com/michaljj/led-controller). Revision 1 was a
 dev-board prototype; this board integrates the supply and the output stage.
 
 ---
