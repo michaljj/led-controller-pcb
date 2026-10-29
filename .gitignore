@@ -1,0 +1,11 @@
+# KiCad caches and auto-backups
+fp-info-cache
+*-backups/
+*.kicad_prl
+_autosave-*
+
+# Fabrication output
+*.gbr
+*.drl
+*.zip
+gerbers/
